@@ -1,1 +1,28 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body{
+        background-color:beige;
+        }
+        .red{
+            color:darkgreen;
+        }
+      li {
+        font-size:100%;
+      }
+      a {
+        font-size: 25;
+      }
+       
+    </style>
+    <body>
+      <h2 id="Bacon Egg and Cheese">Bacon Egg and Cheese</h2>
+      <p>The Bacon Egg and Cheese was originally called a "bap" when they were first sold by British street vendors in the 1800's.</p> 
+      <ol>
+          <li><a href="Burger.html">Burgers</a></li>
+          <li><a href="Crepe.html">Crepe</a></li>
+          <li><a href="Tacos.html">Tacos</a></li>
+        <li><a href= "index.html">back</li>
+   </ol>
+      <img src="https://c.pxhere.com/photos/a1/67/bacon_biscuit_breakfast_cheese_close_up_cooking_delicious_dinner-981255.jpg!d" height="350" width="600">
